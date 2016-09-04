@@ -1,4 +1,5 @@
 source 'https://rubygems.org'
+gem 'devise'
 gem 'ransack', github: 'activerecord-hackery/ransack'
 gem 'execjs','~> 2.7.0'
 gem 'twitter-bootswatch-rails'
